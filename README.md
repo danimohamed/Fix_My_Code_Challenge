@@ -1,1 +1,4 @@
-# Fix_My_Code_Challenge
+![img](https://assets.imaginablefutures.com/media/images/ALX_Logo.max-200x150.png)
+
+# Fix my code
+
